@@ -1,5 +1,6 @@
 # Contributor Covenant Code of Conduct
-This document lists the following matters: 'Our Pledge', 'Our Standards', et 'Attribution', 'Enforcement Responsibilities', 'Scope' and 'Enforcement Guidelines'
+This document lists the following matters: 'Our Pledge', 'Our Standards', 'Attribution', 'Enforcement Responsibilities', 'Scope' and 'Enforcement Guidelines'
+Ce document aborde les sujets suivants: Notre Engagement, Nos Normes, Responsabilités d'Application, Champ d'Application, Application, Directives d'Application et Attribution
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
